@@ -33,5 +33,3 @@ and 39 positions:
 
 Train set is colored by black, test set is colored by red, and numbers colored by green are empty set.
 ![](https://github.com/7tl7qns7ch/SNU-B36-EX/blob/master/figures/data_classes_number.PNG)
-
-**raw_audio** and **raw_audio_196_209** are the raw audio files. Note that number of the file name are not relevant with classes number. Here number of file names are just for ordering during the data collection. 
