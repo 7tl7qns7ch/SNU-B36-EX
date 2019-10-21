@@ -1,5 +1,5 @@
 # SNU-B36-EX
-**SNU-B36-EX** is an inter-floor noise dataset which is extended version of **SNU-B36-50** collected in building no.36 at Seoul National University, Seoul, Korea. It was recorded with a smartphone (Samgsung Galaxy S6) with sampling rate 44,100Hz. The data set is available at [SNU-B36-EX](https://drive.google.com/open?id=1uzvEywFV0KmhOq0xWewuNqMPXtE1qAyH).
+**SNU-B36-EX** is an inter-floor noise dataset which is extended version of **SNU-B36-50** collected in building no.36 at Seoul National University, Seoul, Korea. It was recorded with a smartphone (Samgsung Galaxy S6) with sampling rate 44,100Hz. The data set is available at [SNU-B36-EX](https://drive.google.com/open?id=1uzvEywFV0KmhOq0xWewuNqMPXtE1qAyH). The name of each folder indicate class number (see Train/test split for Zero-Shot settings.) 
 
 All setting and procedure are same as the previous works, but it has the additional noise data by setting the horizontal source points in 1m increments from 0 to 12m. Thus, there are 8,450 audio files in the data set.
 
