@@ -33,3 +33,15 @@ and 39 positions:
 
 Train set is colored by black, test set is colored by red, and numbers colored by green are empty set.
 ![](https://github.com/7tl7qns7ch/SNU-B36-EX/blob/master/figures/data_classes_number.PNG)
+
+
+### Citation
+```
+@article{lee2021zssl,
+  title={Zero-Shot Single-Microphone Sound Classification and Localization in a Building Via the Synthesis of Unseen Features},
+  author={Seungjun Lee, Haesang Yang, Hwiyong Choi, and Woojae Song},
+  journal={IEEE Transactions on Multimedia},
+  year={2021}
+}
+```
+
